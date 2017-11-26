@@ -16,6 +16,8 @@ import android.os.Bundle;
 
 //9 [feature-major] change1
 
+//10 [feature-major] change2
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
